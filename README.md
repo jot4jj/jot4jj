@@ -1,6 +1,6 @@
 <!-- Título com animação -->
 <h1 align="center">
-  👋 Olá, eu sou o <span style="color:#6C63FF;">Jota!</span>  
+  👋 Olá, me chamo <span style="color:#6C63FF;">João Vitor!</span>  
 </h1>
 
 <!-- Animação de escrita -->
