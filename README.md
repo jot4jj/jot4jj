@@ -5,7 +5,7 @@
 
 <!-- Animação de escrita -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End;Estudante+de+Desenvolvimento+de+Sistemas;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End;Estudante+de+Desenvolvimento+de+Sistemas;" alt="Typing SVG" />
 </p>
 
 ---
