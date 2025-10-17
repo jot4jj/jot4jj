@@ -5,7 +5,7 @@
 
 <!-- Animação de escrita -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End;Estudante+de+Desenvolvimento+de+Sistemas;Apaixonado+por+tecnologia+e+F%C3%B3rmula+1;Criando+interfaces+com+HTML%2C+CSS%2C+JS+e+Vue.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End;Estudante+de+Desenvolvimento+de+Sistemas;" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,15 +13,13 @@
 ## 🚀 Sobre mim
 - 🎓 Estudante do 3º ano de Desenvolvimento de Sistemas  
 - 💡 1 ano de experiência em programação e aprendizado constante  
-- 🖌️ Gosto de criar interfaces modernas e intuitivas  
-- 🏁 Fã de Fórmula 1 (Red Bull no coração 💙)  
 - 🎮 Às vezes brinco com projetos criativos só por diversão  
 
 ---
 
 ## 🧰 Tecnologias que uso
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,git,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,vscode,github" />
 </div>
 
 ---
