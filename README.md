@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
+<img align="right" height="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
 
 ###
 
@@ -37,17 +37,17 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
 </div>
 
