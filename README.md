@@ -19,7 +19,11 @@
 
 ## 🧰 Tecnologias que uso
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=vue" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
 </div>
 
 ---
