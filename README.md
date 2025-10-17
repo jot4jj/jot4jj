@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">👋 Olá! Meu nome é Jota, tenho 17 anos e sou apaixonado por tecnologia e design. Atualmente estou cursando o 3º ano de Desenvolvimento de Sistemas, onde venho aprimorando meus conhecimentos em programação e criação de interfaces modernas. Tenho cerca de um ano de experiência prática na área, desenvolvendo projetos com HTML, CSS, JavaScript, Vue.js e Tailwind CSS, tecnologias que me permitem transformar ideias em soluções reais e criativas.<br><br>🎯 Objetivo: me tornar um desenvolvedor completo, dominando tanto o front-end quanto o back-end, e criar experiências digitais que causem impacto.  <br><br>🚀 Missão: crescer um pouco mais a cada projeto, sempre mantendo a curiosidade viva e o desejo de aprender.</p>
+<p align="left">👋 Olá! Meu nome é Jota, tenho 17 anos e sou apaixonado por tecnologia e design. Atualmente estou cursando o 3º ano de Desenvolvimento de Sistemas, onde venho aprimorando meus conhecimentos em programação e criação de interfaces modernas. Tenho cerca de um ano de experiência prática na área, desenvolvendo projetos com **HTML**, **CSS**, **JavaScript**, **Vue.js** e **Tailwind** **CSS**, tecnologias que me permitem transformar ideias em soluções reais e criativas.<br><br>🎯 **Objetivo:** me tornar um desenvolvedor completo, dominando tanto o front-end quanto o back-end, e criar experiências digitais que causem impacto.  <br><br>🚀 **Missão:** crescer um pouco mais a cada projeto, sempre mantendo a curiosidade viva e o desejo de aprender.</p>
 
 ###
 
@@ -28,10 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jot4jj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jot4jj&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/jot4jj/jot4jj/output/snake.svg" alt="Snake animation" />
 
 ###
 
