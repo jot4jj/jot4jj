@@ -16,7 +16,11 @@
 
 ###
 
-<p align="left">👋 Olá! Meu nome é Jota, tenho 17 anos e sou apaixonado por tecnologia e design. Atualmente estou cursando o 3º ano de Desenvolvimento de Sistemas, onde venho aprimorando meus conhecimentos em programação e criação de interfaces modernas. Tenho cerca de um ano de experiência prática na área, desenvolvendo projetos com **HTML**, **CSS**, **JavaScript**, **Vue.js** e **Tailwind** **CSS**, tecnologias que me permitem transformar ideias em soluções reais e criativas.<br><br>🎯 **Objetivo:** me tornar um desenvolvedor completo, dominando tanto o front-end quanto o back-end, e criar experiências digitais que causem impacto.  <br><br>🚀 **Missão:** crescer um pouco mais a cada projeto, sempre mantendo a curiosidade viva e o desejo de aprender.</p>
+👋 Olá! Meu nome é Jota, tenho 17 anos e sou apaixonado por tecnologia e design. Atualmente estou cursando o 3º ano de Desenvolvimento de Sistemas, onde venho aprimorando meus conhecimentos em programação e criação de interfaces modernas. Tenho cerca de um ano de experiência prática na área, desenvolvendo projetos com **HTML**, **CSS**, **JavaScript**, **Vue.js** e **Tailwind** **CSS**, tecnologias que me permitem transformar ideias em soluções reais e criativas.
+
+🎯 **Objetivo:** me tornar um desenvolvedor completo, dominando tanto o front-end quanto o back-end, e criar experiências digitais que causem impacto.
+
+🚀 **Missão:** crescer um pouco mais a cada projeto, sempre mantendo a curiosidade viva e o desejo de aprender.
 
 ###
 
